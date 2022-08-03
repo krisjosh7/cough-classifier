@@ -1,2 +1,0 @@
-# cough-classifier
-*cough*
